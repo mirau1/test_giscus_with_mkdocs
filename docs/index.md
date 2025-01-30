@@ -2,6 +2,8 @@
 
 This is index.md in the /docs directory.
 
+![owl](assets/images/icons8-owl-96.png)
+
 <script src="https://giscus.app/client.js"
         data-repo="mirau1/test_giscus_with_mkdocs"
         data-repo-id="R_kgDONxk9Qw"
