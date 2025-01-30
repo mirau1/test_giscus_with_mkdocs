@@ -1,6 +1,6 @@
 # Home page for testing giscus with MkDocs on GH
 
-This is a test
+This is index.md in the /docs directory.
 
 <script src="https://giscus.app/client.js"
         data-repo="mirau1/test_giscus_with_mkdocs"
