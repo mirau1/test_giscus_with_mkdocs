@@ -1,2 +1,3 @@
 # test_giscus_with_mkdocs
-Testing giscus with mkdocs
+
+This is README.md in the root directory
