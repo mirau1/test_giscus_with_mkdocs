@@ -1,6 +1,10 @@
 # Mermaid Diagram examples
 
+[https://mermaid.js.org/](https://mermaid.js.org/) 
+
 ## Using mermaid
+
+Version of mermaid used here on GitHub.com:
 
 ```mermaid
   info
