@@ -2,6 +2,8 @@
 
 This is index.md in the /docs directory.
 
+[Example Mermaid diagrams](example_mermaid_diagrams.md)
+
 ![owl](assets/images/icons8-owl-96.png)
 
 <script src="https://giscus.app/client.js"
