@@ -2,6 +2,10 @@
 
 ## Using mermaid
 
+```mermaid
+  info
+```
+
 ### Basic mermaid2 test diagram
 
 ```mermaid
